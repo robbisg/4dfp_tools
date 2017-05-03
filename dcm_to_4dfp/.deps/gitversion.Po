@@ -1,0 +1,1 @@
+gitversion.o gitversion.o: gitversion.c

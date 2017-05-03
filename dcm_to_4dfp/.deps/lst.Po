@@ -1,0 +1,26 @@
+lst.o lst.o: lst.c \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdlib.h \
+  /usr/include/sys/feature_tests.h /usr/include/sys/isa_defs.h \
+  /usr/include/string.h /usr/include/iso/string_iso.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stddef.h \
+  include/dicom.h ./config.h include/lstprivate.h include/lst.h
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdlib.h:
+
+/usr/include/sys/feature_tests.h:
+
+/usr/include/sys/isa_defs.h:
+
+/usr/include/string.h:
+
+/usr/include/iso/string_iso.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stddef.h:
+
+include/dicom.h:
+
+./config.h:
+
+include/lstprivate.h:
+
+include/lst.h:

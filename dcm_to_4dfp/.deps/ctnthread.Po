@@ -1,0 +1,28 @@
+ctnthread.o ctnthread.o: ctnthread.c \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdio.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdarg.h \
+  /usr/include/sys/feature_tests.h /usr/include/sys/isa_defs.h \
+  /usr/include/sys/va_list.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdio_tag.h \
+  /usr/include/stdio_impl.h include/dicom.h ./config.h \
+  include/ctnthread.h
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdio.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdarg.h:
+
+/usr/include/sys/feature_tests.h:
+
+/usr/include/sys/isa_defs.h:
+
+/usr/include/sys/va_list.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdio_tag.h:
+
+/usr/include/stdio_impl.h:
+
+include/dicom.h:
+
+./config.h:
+
+include/ctnthread.h:

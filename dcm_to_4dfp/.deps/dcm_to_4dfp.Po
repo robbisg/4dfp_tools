@@ -1,0 +1,106 @@
+dcm_to_4dfp.o dcm_to_4dfp.o: dcm_to_4dfp.c /usr/include/assert.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdio.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdarg.h \
+  /usr/include/sys/feature_tests.h /usr/include/sys/isa_defs.h \
+  /usr/include/sys/va_list.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdio_tag.h \
+  /usr/include/stdio_impl.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdlib.h \
+  /usr/include/string.h /usr/include/iso/string_iso.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/sys/types.h \
+  /usr/include/sys/machtypes.h /usr/include/sys/int_types.h \
+  /usr/include/sys/select.h /usr/include/sys/time.h /usr/include/time.h \
+  /usr/include/iso/time_iso.h /usr/include/sys/time_impl.h \
+  /usr/include/sys/stat.h /usr/include/sys/stat_impl.h \
+  /usr/include/sys/fcntl.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/math.h \
+  /usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/floatingpoint.h \
+  /usr/include/sys/ieeefp.h config.h \
+  /data/petsun4/data1/src_solaris/TRX/Getifh.h \
+  /data/petsun4/data1/src_solaris/TRX/ifh.h \
+  /data/petsun4/data1/src_solaris/TRX/endianio.h \
+  /data/petsun4/data1/src_solaris/TRX/ANALYZE.h \
+  /data/petsun4/data1/src_solaris/TRX/rec.h ./include/dicom.h ./config.h \
+  ./include/ctnthread.h ./include/condition.h ./include/lst.h \
+  ./include/utility.h ./include/lst.h ./include/dicom_objects.h \
+  ./include/dcm_to_analyze.h
+
+/usr/include/assert.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdio.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdarg.h:
+
+/usr/include/sys/feature_tests.h:
+
+/usr/include/sys/isa_defs.h:
+
+/usr/include/sys/va_list.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdio_tag.h:
+
+/usr/include/stdio_impl.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/stdlib.h:
+
+/usr/include/string.h:
+
+/usr/include/iso/string_iso.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/sys/types.h:
+
+/usr/include/sys/machtypes.h:
+
+/usr/include/sys/int_types.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/time.h:
+
+/usr/include/time.h:
+
+/usr/include/iso/time_iso.h:
+
+/usr/include/sys/time_impl.h:
+
+/usr/include/sys/stat.h:
+
+/usr/include/sys/stat_impl.h:
+
+/usr/include/sys/fcntl.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/math.h:
+
+/usr/local/lib/gcc/sparc-sun-solaris2.7/3.4.6/include/floatingpoint.h:
+
+/usr/include/sys/ieeefp.h:
+
+config.h:
+
+/data/petsun4/data1/src_solaris/TRX/Getifh.h:
+
+/data/petsun4/data1/src_solaris/TRX/ifh.h:
+
+/data/petsun4/data1/src_solaris/TRX/endianio.h:
+
+/data/petsun4/data1/src_solaris/TRX/ANALYZE.h:
+
+/data/petsun4/data1/src_solaris/TRX/rec.h:
+
+./include/dicom.h:
+
+./config.h:
+
+./include/ctnthread.h:
+
+./include/condition.h:
+
+./include/lst.h:
+
+./include/utility.h:
+
+./include/lst.h:
+
+./include/dicom_objects.h:
+
+./include/dcm_to_analyze.h:
