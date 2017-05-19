@@ -24,7 +24,8 @@ to include $RELEASE and . in environmental variable PATH.
    cd into $NILSRC and untar nil-tools.tar.
 
 2. Make sure environmental variable $RELEASE is properly set.
-   Run make_nil-tools.csh. This will take a couple of minutes.
+3. run sudo groupadd program
+4. Run tcsh make_nil-tools.csh. This will take a couple of minutes.
    You may ignore warnings about time stamps and potentially incomplete 
    makes. On successful completion make_nil-tools.csh reports
    "successful 4dfp suite make complete". All compiled executables
