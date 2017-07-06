@@ -4,9 +4,9 @@ Git repository of edited 4dfp_tools by Washington University, I edited some make
 Source code for 4dfp utilities.
 These utilities have been downloaded from ftp://imaging.wustl.edu/pub/raichlab/4dfp_tools/
 
-Following instruction are copied from above website.
+The following instructions have been copied from the website above.
 
-To build the files follow these instruction.
+To build files follow these instruction.
 
 Make instructions follow.
 The Linux OS should have installed gcc 4.1.2 or better.
